@@ -2,6 +2,17 @@
   text-align: center;
 }
 
+body {
+  background-color: #00FFFF;
+}
+
+.profile-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 3px solid #FFFAF0;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
