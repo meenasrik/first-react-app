@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/first-react-app/static/css/main.a2726b09.chunk.css",
+    "main.css": "/first-react-app/static/css/main.8c4219d1.chunk.css",
     "main.js": "/first-react-app/static/js/main.831acfaf.chunk.js",
     "main.js.map": "/first-react-app/static/js/main.831acfaf.chunk.js.map",
     "runtime-main.js": "/first-react-app/static/js/runtime-main.3c1f9b6e.js",
@@ -10,14 +10,14 @@
     "static/js/3.862db25c.chunk.js": "/first-react-app/static/js/3.862db25c.chunk.js",
     "static/js/3.862db25c.chunk.js.map": "/first-react-app/static/js/3.862db25c.chunk.js.map",
     "index.html": "/first-react-app/index.html",
-    "static/css/main.a2726b09.chunk.css.map": "/first-react-app/static/css/main.a2726b09.chunk.css.map",
+    "static/css/main.8c4219d1.chunk.css.map": "/first-react-app/static/css/main.8c4219d1.chunk.css.map",
     "static/js/2.168cbb95.chunk.js.LICENSE.txt": "/first-react-app/static/js/2.168cbb95.chunk.js.LICENSE.txt",
     "static/media/profile-pic.c50d2265.jpg": "/first-react-app/static/media/profile-pic.c50d2265.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.3c1f9b6e.js",
     "static/js/2.168cbb95.chunk.js",
-    "static/css/main.a2726b09.chunk.css",
+    "static/css/main.8c4219d1.chunk.css",
     "static/js/main.831acfaf.chunk.js"
   ]
 }
